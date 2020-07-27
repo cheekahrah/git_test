@@ -1,0 +1,3 @@
+[2020-07-27 10:56:20.656] [sharedprocess] [info] main {"machineId":"8e6a0d64adf2bdfddfc423d0a93575a757cd266dc39d208a22835d7fdeadba5f","windowId":3}
+[2020-07-27 10:56:20.846] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dajana/.config/Code/User/snippets'
+[2020-07-27 10:57:00.709] [sharedprocess] [info] Starting to clean up unused language packs.

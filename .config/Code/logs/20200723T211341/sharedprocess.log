@@ -1,0 +1,9 @@
+[2020-07-23 21:13:45.304] [sharedprocess] [info] main {"machineId":"8e6a0d64adf2bdfddfc423d0a93575a757cd266dc39d208a22835d7fdeadba5f","windowId":2}
+[2020-07-23 21:13:45.374] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dajana/.config/Code/User/snippets'
+[2020-07-23 21:14:25.335] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-07-23 21:14:40.425] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2020-07-23 21:14:42.043] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/dajana/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2020-07-23 21:14:53.178] [sharedprocess] [info] Extracted extension to /home/dajana/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2020-07-23 21:14:53.179] [sharedprocess] [info] Renamed to /home/dajana/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2020-07-23 21:14:53.196] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2020-07-23 21:14:53.213] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver

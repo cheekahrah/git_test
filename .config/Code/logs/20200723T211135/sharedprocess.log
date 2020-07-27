@@ -1,0 +1,2 @@
+[2020-07-23 21:11:39.727] [sharedprocess] [info] main {"machineId":"8e6a0d64adf2bdfddfc423d0a93575a757cd266dc39d208a22835d7fdeadba5f","windowId":2}
+[2020-07-23 21:11:39.974] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dajana/.config/Code/User/snippets'

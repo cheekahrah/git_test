@@ -1,0 +1,5 @@
+firefox.settings.services.mozilla.com:HSTS	0	18468	1627235228106,1,0,2
+mozilla.org:HSTS	0	18468	1627235225027,1,0,2
+www.mozilla.org:HSTS	0	18468	1627235223116,1,0,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18468	1627235225526,1,1,2
+normandy.cdn.mozilla.net:HSTS	0	18468	1627235228378,1,0,2
